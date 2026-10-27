@@ -1,0 +1,11 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/jonasvhs/CLionProjects/BreakoutPortfolio/build/cmake_install.cmake",
+		"/home/jonasvhs/CLionProjects/BreakoutPortfolio/build/external/raylib/cmake_install.cmake",
+		"/home/jonasvhs/CLionProjects/BreakoutPortfolio/build/external/raylib/raylib/cmake_install.cmake",
+		"/home/jonasvhs/CLionProjects/BreakoutPortfolio/build/external/raylib/raylib/external/glfw/cmake_install.cmake",
+		"/home/jonasvhs/CLionProjects/BreakoutPortfolio/build/external/raylib/raylib/external/glfw/src/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
